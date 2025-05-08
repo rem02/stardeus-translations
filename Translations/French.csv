@@ -6747,3 +6747,32 @@ ship.chat.extort_res.positive.rude.01,"Sais-tu qui je suis ? Je vais céder cett
 ship.chat.extort_res.positive.rude.02,"OK, mais mes amis vont te le faire payer plus tard.",,
 ship.chat.extort_res.positive.rude.03,"Comment oses-tu ! Tu vas bientôt le regretter, espèce de salaud.",,
 
+ship.chat.extort_res.negative.casual.01,"Mon pote, j'ai vu des astéroïdes plus dangereux que toi.",,
+ship.chat.extort_res.negative.casual.02,Vous devez être nouveau dans ce domaine. Essayez quelqu’un qui s’en soucie réellement.,,
+ship.chat.extort_res.negative.casual.03,De l'extorsion ? C'est mignon. Fais-moi savoir comment cela fonctionne pour toi.,,
+ship.chat.extort_res.negative.casual.04,"Tu plaisantes, non ? C'est adorable.",,
+ship.chat.extort_res.negative.casual.05,Es-tu sûr d'exercer le bon métier ? Essaie la comédie,,
+ship.chat.extort_res.negative.casual.06,"Nous allions payer, mais nous avons ensuite décidé… que non !",,
+
+ship.chat.extort_res.negative.polite.01,Votre demande a été prise en compte et sera ignorée en conséquence.,,
+ship.chat.extort_res.negative.polite.02,Nous avons le regret de vous informer que nous ne négocions pas sous la contrainte.,,
+ship.chat.extort_res.negative.polite.03,Votre proposition a été examinée et jugée inacceptable.,,
+
+ship.chat.extort_res.negative.rude.01,De belles paroles pour quelqu'un à portée de missile.,,
+ship.chat.extort_res.negative.rude.02,Tu t'es cogné la tête contre le sas ce matin ?,,
+ship.chat.extort_res.negative.rude.03,"Je rireais bien, mais je ne veux pas gaspiller l'oxygène.",,
+ship.chat.extort_res.negative.rude.04,Il vous manque cinq armes pour que cela soit convaincant.,,
+ship.chat.extort_res.negative.rude.05,"Écoute, junior, va t'entraîner sur quelqu'un de plus petit.",,
+ship.chat.extort_res.negative.rude.06,Réessayez lorsque votre vaisseau n'est pas maintenu avec du ruban adhésif.,,
+
+ship.chat.fuel_req.neutral.casual.01,"Hey, could you spare some fuel for me?",,
+ship.chat.fuel_req.neutral.casual.02,"I'm almost out of fuel, would you mind giving me some?",,
+ship.chat.fuel_req.neutral.casual.03,Got some extra fuel you could share?,,
+
+ship.chat.fuel_req.neutral.polite.01,We humbly ask for some fuel.,,
+ship.chat.fuel_req.neutral.polite.02,Would you mind giving us some fuel?,,
+ship.chat.fuel_req.neutral.polite.03,Captain is asking you to share some of your fuel with us.,,
+
+ship.chat.fuel_req.neutral.rude.01,"I'm sure you have some extra fuel for us, right?",,
+ship.chat.fuel_req.neutral.rude.02,"I would never ask, but I have no choice. Give me some fuel!",,
+ship.chat.fuel_req.neutral.rude.03,"You've definitely got more fuel than you need, give me some!",,
