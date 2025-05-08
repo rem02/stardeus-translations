@@ -6765,14 +6765,15 @@ ship.chat.extort_res.negative.rude.04,Il vous manque cinq armes pour que cela so
 ship.chat.extort_res.negative.rude.05,"Écoute, junior, va t'entraîner sur quelqu'un de plus petit.",,
 ship.chat.extort_res.negative.rude.06,Réessayez lorsque votre vaisseau n'est pas maintenu avec du ruban adhésif.,,
 
-ship.chat.fuel_req.neutral.casual.01,"Hey, could you spare some fuel for me?",,
-ship.chat.fuel_req.neutral.casual.02,"I'm almost out of fuel, would you mind giving me some?",,
-ship.chat.fuel_req.neutral.casual.03,Got some extra fuel you could share?,,
+ship.chat.fuel_req.neutral.casual.01,"Hé, pourrais-tu me donner du carburant ?",,
+ship.chat.fuel_req.neutral.casual.02,"Je suis presque à court de carburant, pourrais-tu m'en donner ?",,
+ship.chat.fuel_req.neutral.casual.03,as-tu du carburant supplémentaire à partager ?,,
 
-ship.chat.fuel_req.neutral.polite.01,We humbly ask for some fuel.,,
-ship.chat.fuel_req.neutral.polite.02,Would you mind giving us some fuel?,,
-ship.chat.fuel_req.neutral.polite.03,Captain is asking you to share some of your fuel with us.,,
+ship.chat.fuel_req.neutral.polite.01,Nous demandons humblement un peu de carburant.,,
+ship.chat.fuel_req.neutral.polite.02,Pourriez-vous nous donner un peu de carburant ?,,
+ship.chat.fuel_req.neutral.polite.03,Le capitaine vous demande de partager une partie de votre carburant avec nous.,,
 
-ship.chat.fuel_req.neutral.rude.01,"I'm sure you have some extra fuel for us, right?",,
-ship.chat.fuel_req.neutral.rude.02,"I would never ask, but I have no choice. Give me some fuel!",,
-ship.chat.fuel_req.neutral.rude.03,"You've definitely got more fuel than you need, give me some!",,
+ship.chat.fuel_req.neutral.rude.01,"Je suis sûr que tu as du carburant supplémentaire pour nous, n'est-ce pas ?",,
+ship.chat.fuel_req.neutral.rude.02,"Je ne le demanderais jamais, mais je n'ai pas le choix. Donne-moi du carburant !",,
+ship.chat.fuel_req.neutral.rude.03,"Tu as certainement plus de carburant que nécessaire, donne-m'en un peu !",,
+
