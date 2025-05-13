@@ -6777,3 +6777,19 @@ ship.chat.fuel_req.neutral.rude.01,"Je suis sûr que tu as du carburant supplém
 ship.chat.fuel_req.neutral.rude.02,"Je ne le demanderais jamais, mais je n'ai pas le choix. Donne-moi du carburant !",,
 ship.chat.fuel_req.neutral.rude.03,"Tu as certainement plus de carburant que nécessaire, donne-m'en un peu !",,
 
+ship.chat.extort_req.neutral.casual.01,"Donne-moi ce que je veux, ou ça va vite mal tourner.",,
+ship.chat.extort_req.neutral.casual.02,"Je ne te demande plus gentiment. Donne-moi ma part, ou subis les conséquences.",,
+ship.chat.extort_req.neutral.casual.03,"Tu as quelques secondes pour décider: donne-moi ce que je veux, ou je prends tout.",,
+
+ship.chat.extort_req.neutral.polite.01,Nous attendons un paiement pour votre liberté. Faites vite.,,
+ship.chat.extort_req.neutral.polite.02,"Nous aurons besoin d’une petite rançon pour votre retour en toute sécurité. Payez, ou les choses vont se compliquer.",,
+ship.chat.extort_req.neutral.polite.03,"Une rançon est le prix de la paix – payez-la, ou préparez-vous à l’alternative.",,
+
+ship.chat.extort_req.neutral.rude.01,"Tu gardes le navire, je prends un peu de ta cargaison. Commerce équitable, non ?",,
+ship.chat.extort_req.neutral.rude.02,"Un petit don à notre fonds, et vous serez libres de partir.",,
+ship.chat.extort_req.neutral.rude.03,"Payez, ou je démonte votre vaisseau morceau par morceau.",,
+ship.chat.extort_req.neutral.rude.04,"Qu'est-ce que ça va être ? Payez-moi, ou vous serez projeté dans le vide.",,
+ship.chat.extort_req.neutral.rude.05,"Vous pouvez garder votre vaisseau – si vous pouvez vous le permettre, bien sûr.",,
+ship.chat.extort_req.neutral.rude.06,"Tu n'auras pas besoin de tout ça, non ? Donnez-le moi !",,
+
+
