@@ -6792,4 +6792,42 @@ ship.chat.extort_req.neutral.rude.04,"Qu'est-ce que ça va être ? Payez-moi, ou
 ship.chat.extort_req.neutral.rude.05,"Vous pouvez garder votre vaisseau – si vous pouvez vous le permettre, bien sûr.",,
 ship.chat.extort_req.neutral.rude.06,"Tu n'auras pas besoin de tout ça, non ? Donnez-le moi !",,
 
+ship.chat.combat_engage.neutral.casual.01,J'espère que tu es prêt pour la bataille !,,
+ship.chat.combat_engage.neutral.casual.02,J'ai toujours voulu essayer cette nouvelle arme que j'ai installée récemment.,,
+ship.chat.combat_engage.neutral.casual.03,Es-tu prêt pour un combat ?,,
+
+ship.chat.combat_engage.neutral.polite.01,Nous engageons le combat avec vous.,,
+ship.chat.combat_engage.neutral.polite.02,Préparez les postes de combat.,,
+ship.chat.combat_engage.neutral.polite.03,Capitaine à l'appareil. Vous êtes officiellement attaqué.,,
+
+ship.chat.combat_engage.neutral.rude.01,"Remettez votre cargaison ou remettez votre vie !",,
+ship.chat.combat_engage.neutral.rude.02,"Pas de chance, mon pote. Aujourd'hui, c'est toi qui paies.",,
+ship.chat.combat_engage.neutral.rude.03,Je commençais à m'ennuyer. Merci d'être venu !,,
+ship.chat.combat_engage.neutral.rude.04,Je sens le profit… et la peur. Surtout la peur.,,
+ship.chat.combat_engage.neutral.rude.05,J'espère que tu n'étais pas attaché à cette coque !,,
+ship.chat.combat_engage.neutral.rude.06,Aucun appel de détresse. Aucun témoin. Aucune pitié.,,
+
+ship.chat.hail_req.neutral.casual.01,Comment puis-je t'aider ?,,
+ship.chat.hail_req.neutral.casual.02,Je t'entends haut et fort !,,
+ship.chat.hail_req.neutral.casual.03,"Capitaine à l'écoute, ravi d'avoir de tes nouvelles !",,
+
+ship.chat.hail_req.neutral.polite.01,Transmission reçue. Veuillez préciser votre activité.,,
+ship.chat.hail_req.neutral.polite.02,Le capitaine est en ligne. Présentez votre demande.,,
+ship.chat.hail_req.neutral.polite.03,Connexion établie. Nous vous écoutons.,,
+
+ship.chat.hail_req.neutral.rude.01,Que veux-tu?,,
+ship.chat.hail_req.neutral.rude.02,"Déclarez votre demande ou sortez.",,
+ship.chat.hail_req.neutral.rude.03,Et maintenant, qui diable es-tu ?,,
+
+ship.chat.surrender_req.neutral.casual.01,On se rend ! Contents maintenant ? On peut y aller ?,,
+ship.chat.surrender_req.neutral.casual.02,"Ouah, ouah ! On pourrait peut-être en parler plutôt ?",,
+ship.chat.surrender_req.neutral.casual.03,"D'accord, d'accord, tu es plus fort. Mais ne nous fais pas exploser, d'accord ?",,
+
+ship.chat.surrender_req.neutral.polite.01,"Nous sommes prêts à nous y conformer pleinement. S'il vous plaît, faites preuve de retenue.",,
+ship.chat.surrender_req.neutral.polite.02,Il s’agit d’un appel formel en faveur d’une résolution pacifique.,,
+ship.chat.surrender_req.neutral.polite.03,Nous cherchons uniquement à éviter de nouveaux conflits. La clémence est implorée.,,
+
+ship.chat.surrender_req.neutral.rude.01,"OK, tu as gagné ! On peut garder nos membres et peut-être juste la moitié de notre dignité ?",,
+ship.chat.surrender_req.neutral.rude.02,"Regardez, on se rend ! De toute façon, notre objectif est terrible.",,
+ship.chat.surrender_req.neutral.rude.03,"Si vous nous laissez vivre, nous promettons de voler quelqu'un d'autre la prochaine fois !",,
 
