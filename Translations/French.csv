@@ -6817,7 +6817,7 @@ ship.chat.hail_req.neutral.polite.03,Connexion établie. Nous vous écoutons.,,
 
 ship.chat.hail_req.neutral.rude.01,Que veux-tu?,,
 ship.chat.hail_req.neutral.rude.02,"Déclarez votre demande ou sortez.",,
-ship.chat.hail_req.neutral.rude.03,Et maintenant, qui diable es-tu ?,,
+ship.chat.hail_req.neutral.rude.03,"Et maintenant, qui diable es-tu ?",,
 
 ship.chat.surrender_req.neutral.casual.01,On se rend ! Contents maintenant ? On peut y aller ?,,
 ship.chat.surrender_req.neutral.casual.02,"Ouah, ouah ! On pourrait peut-être en parler plutôt ?",,
@@ -6830,4 +6830,86 @@ ship.chat.surrender_req.neutral.polite.03,Nous cherchons uniquement à éviter d
 ship.chat.surrender_req.neutral.rude.01,"OK, tu as gagné ! On peut garder nos membres et peut-être juste la moitié de notre dignité ?",,
 ship.chat.surrender_req.neutral.rude.02,"Regardez, on se rend ! De toute façon, notre objectif est terrible.",,
 ship.chat.surrender_req.neutral.rude.03,"Si vous nous laissez vivre, nous promettons de voler quelqu'un d'autre la prochaine fois !",,
+
+ship.chat.busy.casual.01,"Désolé, je suis un peu occupé en ce moment.",,
+ship.chat.busy.casual.02,Je suis un peu occupé en ce moment.,,
+ship.chat.busy.casual.03,"Désolé, j'ai les mains pleines en ce moment.",,
+
+ship.chat.busy.polite.01,"Désolé, nous ne pouvons pas vous répondre pour le moment.",,
+ship.chat.busy.polite.02,Le capitaine est actuellement occupé. Veuillez réessayer plus tard.,,
+ship.chat.busy.polite.03,"Transmission reçue, mais nous ne pouvons actuellement pas vous répondre.",,
+
+ship.chat.busy.rude.01,Tu ne vois pas que je suis occupé ?,,
+ship.chat.busy.rude.02,Dégage. Je suis occupé.,,
+ship.chat.busy.rude.03,Déranges-moi encore pendant que je suis occupé et je t'enverrai une capsule de brèche.,,
+
+ship.chat.negative.casual.01,"Désolé, je vais devoir refuser cette fois.",,
+ship.chat.negative.casual.02,"Je ne peux pas, désolé.",,
+ship.chat.negative.casual.03,Je vais devoir dire non cette fois.,,
+
+ship.chat.negative.polite.01,Négatif.,,
+ship.chat.negative.polite.02,Le capitaine n'approuve pas cela.,,
+ship.chat.negative.polite.03,Nous ne pouvons pas faire cela.,,
+
+ship.chat.negative.rude.01,Bien sûr que non ! Dégage de ma vue.,,
+ship.chat.negative.rude.02,Tu te moques de moi ? Non !,,
+ship.chat.negative.rude.03,Je n'accepterai jamais ça !,,
+
+ship.chat.positive.casual.01,"Bien sûr, faisons-le !",,
+ship.chat.positive.casual.02,À tout moment !,,
+ship.chat.positive.casual.03,Bien sûr!,,
+
+ship.chat.positive.polite.01,Affirmatif.,,
+ship.chat.positive.polite.02,Le capitaine est d'accord.,,
+ship.chat.positive.polite.03,Positif.,,
+
+ship.chat.positive.rude.01,Je suis d'accord cette fois.,,
+ship.chat.positive.rude.02,"Bien sûr, dépêche-toi avant que je change d'avis.",,
+ship.chat.positive.rude.03,"Ouais, peu importe.",,
+
+ship.chat.outlaw.casual.01,"tu sais qu'il y a des restrictions de chargement, n'est-ce pas ?,,
+ship.chat.outlaw.casual.02,As tu au moins jeté un oeil aux règles avant de mettre cette camelote sur ton navire ?,,
+ship.chat.outlaw.casual.03,"Sans vouloir être rabat-joie, je pense que tu enfreins quelques règles ici.",,
+
+ship.chat.outlaw.polite.01,Veuillez noter que votre navire viole les limites de classe.,,
+ship.chat.outlaw.polite.02,"Toutes nos excuses, mais nous pensons que votre équipement n'est peut-être pas conforme à la réglementation en vigueur.",,
+ship.chat.outlaw.polite.03,La configuration de votre vaisseau semble être en dehors des directives standard.,,
+
+ship.chat.outlaw.rude.01,"C'est une blague, ce type d'équipement, non ? Parce que c'est clairement illégal.",,
+ship.chat.outlaw.rude.02,J'ai vu des contrebandiers avec des arrangements moins suspects que ça.,,
+ship.chat.outlaw.rude.03,Tu as construit ça dans une casse ? Parce que c'est clairement pas réglementaire.,,
+
+ship.chat.too.far.negative.casual.01,"Euh, petit problème : on ne peut pas vraiment bouger pour l'instant. Ça te dérangerait de venir à nous ?",,
+ship.chat.too.far.negative.casual.02,"Nous sommes bloqués, donc à moins que tu as un câble de remorquage, tu dois venir ici.",,
+ship.chat.too.far.negative.casual.03,"À moins que tu veux que nous t'y amenions en pagayant, tu dois faire le voyage.",,
+
+ship.chat.too.far.negative.polite.01,Le capitaine nous informe que nous ne pouvons pas naviguer pour le moment. Veuillez vous rendre à notre emplacement si possible.,,
+ship.chat.too.far.negative.polite.02,"Nous nous excusons pour la gêne occasionnée, mais nous ne pouvons pas assurer l'approche. Veuillez adapter votre itinéraire pour nous rejoindre.",,
+ship.chat.too.far.negative.polite.03,Notre vaisseau est actuellement sans moteur opérationnel. Nous vous serions reconnaissants de venir nous rejoindre.,,
+
+ship.chat.too.far.negative.rude.01,"Nos propulseurs sont en vacances. Sois gentil et rapproche-toi, d'accord ?",,
+ship.chat.too.far.negative.rude.02,"Ouais, nos moteurs sont en panne. Si tu veux te faire piller aujourd'hui, il faudra venir jusqu'à nous.",,
+ship.chat.too.far.negative.rude.03,"Il n'y a pas de moteur de notre côté, donc si tu ne viens pas ici, nous perdons tous les deux notre temps.",,
+
+space.object.ShipHyperTrail,Sentier Hypersaut,,
+
+space.object.info.ShipHyperTrail,"Lorsqu'un vaisseau pénètre dans l'hyperespace, il laisse une traînée qui s'estompe progressivement. Cette traînée peut indiquer l'endroit où le vaisseau a sauté.",,
+
+ship.hypertrail.hot,Le vaisseau est en hyperespace mais n'a pas encore quitté le secteur.,,
+
+objects.devices.shieldemitter,Émetteur de bouclier,,
+objects.devices.shieldemitter.desc,Projette une barrière énergétique qui absorbe ou dévie l'énergie et les attaques d'armes de faible calibre.,,
+
+overlay.tip.ShipCombat,Commandes de combat du vaisseau,,
+
+objects.devices.shreddercannon,Canon déchiqueteur,,
+objects.devices.shreddercannon.desc,Une arme balistique qui tire des projectiles à grande vitesse en succession rapide.,,
+objects.devices.heavylaser,Laser lourd,,
+objects.devices.heavylaser.desc,Une arme à énergie de haute puissance qui tire des faisceaux concentrés.,,
+
+research.shipcombat.pointdefense,Armes de défense ponctuelle,,
+research.shipcombat.weaponsballistic,Armes balistiques,,
+research.shipcombat.weaponslaser,Armes laser,,
+research.shipcombat.weaponsmissile,armes à missiles,,
+
 
