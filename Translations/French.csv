@@ -6910,6 +6910,19 @@ objects.devices.heavylaser.desc,Une arme à énergie de haute puissance qui tire
 research.shipcombat.pointdefense,Armes de défense ponctuelle,,
 research.shipcombat.weaponsballistic,Armes balistiques,,
 research.shipcombat.weaponslaser,Armes laser,,
-research.shipcombat.weaponsmissile,armes à missiles,,
+research.shipcombat.weaponsmissile,Armes à missiles,,
 
+objects.devices.rocketpod,Pod de roquette,,
+objects.devices.rocketpod.desc,Un lanceur qui tire des roquettes perforantes pour des frappes de précision.,,
 
+obj.materials.rocket,Roquette,,
+obj.materials.rocket.desc,A highly explosive shield-piercing rocket.,,
+
+objects.devices.interceptorturret,Tourelle d'interception,,
+objects.devices.interceptorturret.desc,Une tourelle de défense ponctuelle qui intercepte les missiles entrants.,,
+
+not.available.during.ship.combat,Non disponible pendant le combat de vaisseau,,
+
+state.disabled,Désactivé,,
+state.windup,Liquidation*,,
+state.no.ammo,Pas de munitions,,
