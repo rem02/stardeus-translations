@@ -6867,7 +6867,7 @@ ship.chat.positive.rude.01,Je suis d'accord cette fois.,,
 ship.chat.positive.rude.02,"Bien sûr, dépêche-toi avant que je change d'avis.",,
 ship.chat.positive.rude.03,"Ouais, peu importe.",,
 
-ship.chat.outlaw.casual.01,"tu sais qu'il y a des restrictions de chargement, n'est-ce pas ?,,
+ship.chat.outlaw.casual.01,"tu sais qu'il y a des restrictions de chargement, n'est-ce pas ?",,
 ship.chat.outlaw.casual.02,As tu au moins jeté un oeil aux règles avant de mettre cette camelote sur ton navire ?,,
 ship.chat.outlaw.casual.03,"Sans vouloir être rabat-joie, je pense que tu enfreins quelques règles ici.",,
 
@@ -6916,7 +6916,7 @@ objects.devices.rocketpod,Pod de roquette,,
 objects.devices.rocketpod.desc,Un lanceur qui tire des roquettes perforantes pour des frappes de précision.,,
 
 obj.materials.rocket,Roquette,,
-obj.materials.rocket.desc,A highly explosive shield-piercing rocket.,,
+obj.materials.rocket.desc,Une roquette perforante hautement explosive.,,
 
 objects.devices.interceptorturret,Tourelle d'interception,,
 objects.devices.interceptorturret.desc,Une tourelle de défense ponctuelle qui intercepte les missiles entrants.,,
@@ -6926,3 +6926,169 @@ not.available.during.ship.combat,Non disponible pendant le combat de vaisseau,,
 state.disabled,Désactivé,,
 state.windup,Liquidation*,,
 state.no.ammo,Pas de munitions,,
+
+noun.weapon.type,Type d'arme,,
+
+weapon.type.balistic,Ballistique,,
+weapon.type.missile,Missile,,
+weapon.type.laser,Laser,,
+weapon.type.pointdefense,Défense ponctuelle,,
+weapon.type.plasma,Plasma,,
+
+noun.hyperdrives,Hyperdrives,,
+noun.ship.hull,Coque du vaisseau,,
+noun.weapon.settings,Paramètres des armes,,
+
+adj.default,Défaut,,
+adj.custom,Personnalisé,,
+
+open.default.settings,Ouvrir les paramètres par défaut,,
+
+weapon.mode.target,Mode de ciblage,,
+weapon.mode.fire,Mode de tir,,
+
+autofire.flux.threshold,Seuil de flux de tir automatique,,
+autofire.flux.threshold.desc,"Lorsque les armes tirent, elles génèrent du Flux. Les armes ne tireront pas automatiquement si cela dépasse ce seuil.",,
+
+auto.target.priorities,Priorités de ciblage automatique,,
+
+research.shipcombat.weaponsplasma,Armes à plasma,,
+objects.devices.gaussstriker,Gauss Striker,,
+objects.devices.gaussstriker.desc,"Une arme à plasma dévastatrice qui libère des explosions d'énergie à grande vitesse, capables d'annihiler n'importe quelle cible.",,
+
+paste.config,Coller la configuration,,
+
+noun.stats,Stats,,
+stat.charge.time,Temps de charge,,
+stat.charge.time.weapons.desc,Temps nécessaire à l'arme pour se recharger entre les tirs.,,
+stat.charge.time.desc,Temps nécessaire pour que l'appareil soit prêt à l'emploi.,,
+stat.windup.time,Temps de démarrage,,
+stat.windup.time.desc,Temps nécessaire pour que l'appareil soit prêt après une période d'inactivité.,,
+
+ammo.capacity,Capacité des munitions,,
+
+stat.accuracy,Précision,,
+stat.shield.penetrate.chance,Chances de pénétration du bouclier,,
+stat.shield.penetrate.chance.desc,Chances de pénétration du tir {0}.,,
+stat.flux.per.shot.hard,Flux dur par tire,,
+stat.flux.per.shot.soft,Flux doux par tire,,
+stat.flux.per.shot.desc,Quantité de {0} générée lorsque l'arme tire.,,
+stat.flux.per.hit.hard,Flux dur par tir sur le bouclier,,
+stat.flux.per.hit.soft,Flux doux par tir sur le bouclier,,
+stat.flux.per.hit.desc,Quantité de {0} générée lorsque le tir touche {1}.,,
+
+targeted.by,Ciblé par,,
+target.with.all.weapons,Cibler avec toutes les armes,,
+target.with.weapon,"Cibler avec l'arme",,
+current.target,Objectif actuel,,
+not.targeted,Non ciblé,,
+
+noun.ship.weapon,Arme du vaisseau,,
+noun.ship.weapons,Armes du vaisseau,,
+noun.combat.mode,Mode de combat,,
+
+too.much.flux,Trop de flux,,
+
+noun.thrusters,Propulseurs,,
+noun.flux.vent.settings,Paramètres de ventilation du flux,,
+
+auto.vent.flux,ventilation auto du Flux,,
+
+tolerated.flux.hard,Flux dur toléré,,
+tolerated.flux.hard.desc,Le flux commencera à s'évacuer s'il dépasse cette valeur.,,
+tolerated.flux,Flux toléré,,
+tolerated.flux.desc,Le flux commencera à s'évacuer s'il dépasse cette valeur.,,
+
+auto.vent.flux.stop.hard,Seuil de flux dur d'arrêt de ventilation,,
+auto.vent.flux.stop.hard.desc,Le flux cessera de s'évacuer lorsque le flux dur descendra en dessous de cette valeur.,,
+auto.vent.flux.stop.total,Seuil de flux d'arrêt de ventilation,,
+auto.vent.flux.stop.total.desc,Le flux cessera de s'évacuer lorsqu'il descendra en dessous de cette valeur.,,
+
+value.too.low,Trop bas,,
+
+toggle.compact.ui,Activer/désactiver l'IU compacte,,
+
+noun.class.points,Points de classe,,
+
+class.points.desc,"Chaque classe de vaisseau dispose d'un nombre maximum de points de classe légalement autorisés. Chaque équipement de combat (arme, bouclier, propulseur) consomme un certain nombre de points de classe. Dépasser cette limite entraîne des conséquences négatives.",,
+class.points.exceeded.player,Les points de classe de notre vaisseau ont dépassé la limite ! Il y aura des conséquences.,,
+class.points.exceeded.npc,La configuration de ce vaisseau dépasse la limite de points de classe.,,
+class.points.exceeded.info,Max autorisé pour {0} : {1}. Actuel : {2}.,,
+
+ship.class.base.evade,Évasion de base,,
+ship.evade.thruster.bonus,Bonus du propulseur,,
+ship.violates.class.limit,Le vaisseau viole la limite de classe,,
+
+noun.ship.class.limit,Limite de classe du vaisseau,,
+
+ship.class.limit.future.violation.tip,La construction de cet appareil entraînera une violation de la limite de classe de vaisseau,,
+
+trade.refused,Commerce refusé,,
+
+noun.law.enforcement,Forces de l'ordre,,
+noun.law.enforcement.officer,Agent des forces de l'ordre,,
+noun.outlaw,Hors-la-loi,,
+
+state.in.combat,Au combat,,
+
+ev.pirate.attack.title,Approche d'un vaisseau pirate,,
+ev.pirate.attack.desc,Alerte: Un vaisseau pirate s'approche de notre vaisseau !,,
+ev.police.raid.title,Raid des forces de l'ordre,,
+ev.police.raid.desc,Alerte: Les forces de l'ordre s'approchent de notre vaisseau !,,
+
+choose.ship.class,Choisissez une classe de vaisseau compatible,,
+
+incompatible.ship.class.tip,Votre classe di vaisseau actuelle ({0}) n'est pas compatible avec votre configuration. Vous devez maintenant choisir une nouvelle classe de vaisseau.,,
+
+select.this.ship.class,Sélectionnez cette classe du vaisseau,,
+
+adj.incompatible,Incompatible,,
+
+noun.derelict,Abandonné,,
+
+quest.MakeShipCombatReady,Préparez le vaisseau au combat,,
+quest.MakeShipCombatReady.desc,Nous devons nous défendre contre les vaisseaux hostiles. Construisons des armes et des boucliers pour avoir une chance.,,
+quest.MakeShipCombatReady.shredder.cannon.tip,Quelques canons déchiqueteurs nous donneront suffisamment de puissance de feu pour nous défendre contre les petits vaisseaux et les météorites occasionnelles.,,
+quest.MakeShipCombatReady.shield.emitter.tip,"Nous avons besoin d’au moins un émetteur de bouclier pour un bouclier fonctionnel. Sans lui, nous ne tiendrions pas longtemps, même contre des ennemis légèrement armés.",,
+
+noun.ship.combat,Combat vaisseau*,,
+noun.minimum,Minimum,,
+
+pronoun.any,Tout*,,
+
+noun.base.capacity,Capacité de base,,
+noun.class.bonus,Bonus de classe,,
+noun.size.bonus,Bonus de taille,,
+noun.capacitor.bonus,Bonus de condensateur,,
+noun.flux.bonus,Bonus Flux,,
+noun.flux.capacitor,Condensateur de flux,,
+noun.flux.capacitor.desc,Augmente la capacité de flux du vaisseau.,,
+noun.flux.capacitors,Condensateurs de flux,,
+
+research.spacetravel.warpdrive,Moteur à distorsion,,
+research.spacetravel.warpdrivealien,Moteur à distorsion Alien,,
+
+objects.devices.warpdrive,Moteur à distorsion Horizon,,
+objects.devices.warpdrive.desc,"Un moteur de distorsion longue portée basé sur une technologie extraterrestre qui peut se téléporter dans n'importe quelle région, quelle que soit la distance.",,
+objects.devices.warpdrivemini,Moteur à distorsion local,,
+objects.devices.warpdrivemini.desc,Un moteur de distorsion à courte portée conçu pour des sauts rapides dans la région actuelle. Idéal pour un repositionnement tactique ou une fuite rapide.,,
+
+ship.combat.ongoing,Combat spatial en cours,,
+ship.combat.ended,Fin du combat spatial,,
+
+warps.available,distorsions disponible,,
+
+tut.ship.combat.desc,Apprenez comment fonctionne le combat spatial.,,
+tut.ship.combat.intro,Ce tutoriel vous apprend à utiliser les armes des vaisseaux et à combattre d'autres vaisseaux.,,
+tut.ship.combat.step.class.1,Chaque vaisseau possède un {0} qui définit les limites de chargement autorisées.,,
+
+tut.ship.combat.step.class.2,"Si votre vaisseau ne répond plus aux exigences de classe, vous devez choisir une nouvelle {0}.",,
+tut.ship.combat.step.class.3,Vous pouvez basculer entre les classes de vaisseau compatibles dans {0}.,,
+tut.ship.combat.step.class.points.1,Les limites de chargement sont définies par {0}. Les vaisseaux plus grands ont des classes de vaisseaux de rang supérieur qui autorisent plus de {0}.,,
+tut.ship.combat.step.class.points.2,Chaque <b>dispositif de vaisseau</b> utilisé au combat coûte environ {0}.,,
+tut.ship.combat.step.class.points.3,Dépasser le {0} autorisé pour votre {1} est illégal et entraîne le statut {2}.,,
+tut.ship.combat.step.class.points.4,"Ce vaisseau est de classe {0}, permettant jusqu'à {1} {2}, mais son équipement actuel vaut {3} {2}, ce qui en fait un {4}.",,
+tut.ship.combat.step.class.points.5,Une notification vous informera lorsque vous violerez la limite {0}.,,
+tut.ship.combat.step.class.points.6,"Être un {0} présente des inconvénients. La plupart des commerçants vous éviteront et {1} officiers vous traqueront.",,
+tut.ship.combat.step.devices.title,Dispositifs de combat des vaisseaux,,
+tut.ship.combat.step.devices.1,Passons en revue tous les dispositifs du navire impliqués dans le combat.,,
